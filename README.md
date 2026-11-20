@@ -8,6 +8,8 @@ This repository holds Glowtide's installers and release notes; installed copies 
 latest release for updates. The source code is at
 [cynicalk/glowtide](https://github.com/cynicalk/glowtide) (MIT licence).
 
+[![Watch the 30-second demo](docs/demo.jpg)](https://github.com/cynicalk/glowtide-releases/releases/download/v1.0.12/glowtide-demo.mp4)
+
 ## Install
 
 1. Open the [latest release](../../releases/latest) and download `Glowtide-<version>-setup.exe`.
