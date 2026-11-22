@@ -29,7 +29,7 @@ update**.
 - 🎤 **Lyrics on your desktop:** timed to the music, in seven styles, from karaoke to a
   constellation drawn by the words.
 - 🗣️ **Just say it:** press **Ctrl+Alt+V** and say "next song", "volume forty" or "play
-  Blinding Lights". Or turn on **"Hey Glowtide"** for hands-free.
+  Blinding Lights". Or turn on **"Hey Glow"** for hands-free.
 - 🖥️ **Full screen:** a visualizer, or the album art filling your screen (**Ctrl+Alt+F**).
 - 📊 **Your listening:** stats, a weekly recap and your year in music.
 - 🎛️ **Extras:** a mini player, a phone remote, quieter music during calls, and a pause when
@@ -43,7 +43,7 @@ nothing you say is saved or sent anywhere.
 ## Need help?
 
 See **Help** in the [main page](https://github.com/cynicalk/glowtide#help): missing lyrics,
-lyrics out of sync, "Hey Glowtide" not hearing you, and where your settings live.
+lyrics out of sync, "Hey Glow" not hearing you, and where your settings live.
 
 Your settings are in `%APPDATA%\Glowtide`. Uninstall from Windows Settings → Apps.
 
